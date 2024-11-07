@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "452724094271",
+    "project_id": "bookapp-4ef38",
+    "storage_bucket": "bookapp-4ef38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452724094271:android:51ad4126ef49099826cf8a",
+        "android_client_info": {
+          "package_name": "com.example.heybooks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1rrJ1x4me8PvLnT9u_bzAXSRJbWvpyKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
